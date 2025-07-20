@@ -1,0 +1,8 @@
+.streamlit/secrets.toml
+# Ignore secrets file
+venv/
+__pycache__/
+*.pyc
+
+# IDE settings
+.vscode/
